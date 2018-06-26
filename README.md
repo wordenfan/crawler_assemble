@@ -6,3 +6,5 @@ gather the code of crawler by python step by step through some demos,only be use
 - crawl_4SDemo is a crawler for some page need cookie by login first
 
 - crawl_selenium is a crawler by useing selenium lib
+
+- scrapy_multi_thread use multi thread by scrapy frame crawl data of lagou website
